@@ -13,16 +13,46 @@ function Home() {
         />
 
         <div className="Home_row">
-          <Product />
-          <Product />
+          <Product
+            title="I am a product"
+            image="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL480_SR312,480_.jpg"
+            price={20}
+            rating={5}
+          />
+          <Product
+            title="I am a product"
+            image="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL480_SR312,480_.jpg"
+            price={20}
+            rating={5}
+          />
         </div>
         <div className="Home_row">
-          <Product />
-          <Product />
-          <Product />
+          <Product
+            title="I am a product"
+            image="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL480_SR312,480_.jpg"
+            price={20}
+            rating={5}
+          />
+          <Product
+            title="I am a product"
+            image="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL480_SR312,480_.jpg"
+            price={20}
+            rating={5}
+          />
+          <Product
+            title="I am a product"
+            image="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL480_SR312,480_.jpg"
+            price={20}
+            rating={5}
+          />
         </div>
         <div className="Home_row">
-          <Product />
+          <Product
+            title="I am a product"
+            image="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL480_SR312,480_.jpg"
+            price={20}
+            rating={5}
+          />
         </div>
       </div>
     </div>
